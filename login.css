@@ -1,0 +1,75 @@
+body {
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    color: #5AD2AE;
+
+}
+
+main {
+
+    background: #F2FCFF;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 30px;
+
+
+
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+header {
+    margin: 0;
+    padding: 1px;
+
+
+}
+
+.principal {
+
+    margin: 50px auto;
+    width: 450px;
+
+    background: white;
+    border: 2px solid darkcyan;
+
+    border-radius: 30px;
+}
+
+input {
+    border: 2px solid gray;
+    border-radius: 30px;
+    padding-left: 5px;
+    height: 30px;
+    width: 180px;
+    font-size: 11px;
+
+
+}
+
+#login {
+    margin-top: 0 auto;
+    font-size: 13px;
+    padding-top: 2px;
+    color: whitesmoke;
+}
+
+button {
+    width: 180px;
+    height: 30px;
+    border-radius: 10px;
+    background: #5AD2AE;
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 3px;
+}
+
+#pass {
+    margin-top: 10px;
+}
